@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-KaneD985
 Running at: <https://jpa03-ydeng672.dokku-11.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
